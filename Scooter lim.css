@@ -1,0 +1,100 @@
+.sfondo{
+  height: 700px;
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.logo-testo{
+  text-align: center;
+}
+
+.titolo{
+  color: green;
+}
+
+.input{
+  text-align: center;
+  background-color: green;
+  background-size: 350px;
+  margin-left: 355px;
+  margin-right: 330px;
+  font-size: 20px;
+
+}
+
+/* GINO */
+.container1{
+  margin-left: 350px;
+}
+
+.gino{
+  font-size: 25px;
+  color: white;
+}
+
+.via-guadalametri{
+  color: white;
+}
+
+.batteria-gino{
+  color: white;
+}
+
+.carica-arancione{
+  color: orange;
+  background-color: orange;
+  margin-right: 850px;
+  border-radius: 4px 4px 4px 4px;
+}
+
+/* MIKE */
+.container2{
+  margin-left: 350px;
+}
+
+.mike{
+  font-size: 25px;
+  color: white;
+}
+
+.via-ricciardoni{
+  color: white;
+}
+
+.batteria-mike{
+  color: white;
+}
+
+.carica-verde{
+  color: green;
+  background-color: green;
+  margin-right: 700px;
+  border-radius: 4px 4px 4px 4px;
+}
+
+/* FEDE */
+.container3{
+  margin-left: 350px;
+}
+
+.fede{
+  font-size: 25px;
+  color: white;
+}
+
+.via-mentarini{
+  color: white;
+}
+
+.batteria-fede{
+  color: white;
+}
+
+.carica-rossa{
+  color: red;
+  background-color: red;
+  margin-right: 1050px;
+  border-radius: 4px 4px 4px 4px;
+}
